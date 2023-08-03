@@ -1,0 +1,47 @@
+
+        *{
+            margin: 0%;
+            padding: 0%;
+        }
+        .container{
+            border: 2px solid aqua;
+            border-radius: 9px;
+            width: 35%;
+            position:relative;
+            display: inherit;
+            top:70px;
+            left:200px;
+         }
+          #a{
+            text-decoration: none;
+            color:green;
+            
+         }
+         .q{
+            text-decoration: none;  
+            
+         }
+         .x{
+            border-radius: 20px;
+         }
+         .btn{
+            position:relative;
+            display: inherit;
+            left: 15px;
+         }
+         .btn1{
+            width: 170px;
+            position:relative;
+            display: inherit;
+            left: 15px;
+            color: white;
+            background-color: blueviolet;
+         }
+         .btn2{
+            width: 170px;
+            position:relative;
+            display: inherit;
+            left: 15px;
+           background-color:  salmon;
+           color: white;
+         }
